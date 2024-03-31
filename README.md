@@ -6,6 +6,9 @@ Submitted by: Anbu Damodaran
 
 Time spent: **X** hours spent in total
 
+## Brainstorming MD file
+https://hackmd.io/@UbwzNwHcRh2R_SclW0YgMg/ByGe6Y2Rp/edit
+
 ## Required Features
 
 The following **required** functionality is completed:
